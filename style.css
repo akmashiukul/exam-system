@@ -1,0 +1,41 @@
+#head{
+    color: red;
+    border: 2px solid;
+    padding: 10px;
+    background-color: aqua;
+    font-size: 22px;
+    text-align: justify;
+}
+.notification{
+    margin-top: 5px;
+    border: 2px solid red;
+    font-size: 20px;
+    padding: 10px;
+}
+#next{
+    text-align: center;
+    text-decoration: underline;
+    color: crimson;
+    font-size: 28px;
+}
+#subject{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    margin:5px;
+    border: 2px solid green;
+    padding: 5px;
+
+}
+.web-app{
+    border: 2px solid red;
+    margin-top: 11px;
+}
+#lecturer{    text-align: center;
+    font-size: 18px;}
+.link{
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+}
